@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-*In this project, I have used some machine learning algorithms to detect Credit Card fraudlent transactions. Using a dataset of nearly 285000 credit card transactions and multiple unsupervised anomaly detection algorithms, I am able to identify transactions with a high probability of being credit card fraud. *
+*In this project, I have used some machine learning algorithms to detect Credit Card fraudlent transactions. Using a dataset of nearly 285000 credit card transactions and multiple unsupervised anomaly detection algorithms, I am able to identify transactions with a high probability of being credit card fraud.*
 
 **I have used the following two machine learning algorithms:**
 
@@ -17,3 +17,19 @@ This path length, averaged over a forest of such random trees, is a measure of n
 Random partitioning produces noticeably shorter paths for anomalies. Hence, when a forest of random trees collectively produce shorter path lengths for particular samples, they are highly likely to be anomalies.
 
 Furthermore, using metrics suchs as precision, recall, and F1-scores,I have investigated  the classification accuracy for these algorithms.
+
+
+### Plots
+- *Plot of histograms of each parameter of the dataset*
+
+<img src="assets/1.png" height = "400" width="600">
+
+---------------------
+
+- *Correlation matrix*
+
+
+<img src="assets/2.png" height = "400" width="600">
+
+---------------------
+
