@@ -28,7 +28,7 @@ Furthermore, using metrics suchs as precision, recall, and F1-scores,I have inve
 
 ---------------------
 
-- *Correlation matrix*
+- *Plot of Correlation matrix*
 
 
 <img src="assets/2.png" height = "400" width="600">
